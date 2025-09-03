@@ -9,8 +9,6 @@ This project is beginner-friendly and shows how to use **timers, graphics, and c
 👉 Watch the full step-by-step tutorial on YouTube:  
 [![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube&style=for-the-badge)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
 
-*(Replace `YOUR_YOUTUBE_VIDEO_LINK_HERE` with your actual video link)*
-
 ---
 
 ## 🚀 Features
@@ -57,7 +55,7 @@ Copy code
 ### Run the project
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/Explosion_Button.git
+   git clone [https://github.com/AS-Sharpdev/ParticleExplosionButton-CSharp]
 Open Explosion_Button.sln in Visual Studio
 
 Press F5 to run
