@@ -7,7 +7,7 @@ This project is beginner-friendly and shows how to use **timers, graphics, and c
 
 ## 📺 YouTube Tutorial
 👉 Watch the full step-by-step tutorial on YouTube:  
-[![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube&style=for-the-badge)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube&style=for-the-badge)](https://youtu.be/ktsaVPCFYMI)
 
 ---
 
